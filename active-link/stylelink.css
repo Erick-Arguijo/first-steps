@@ -1,0 +1,9 @@
+.link:hover{
+    text-decoration: underline;
+    color:rgb(59 130 246);
+    transition: all;
+}
+
+.active-link{
+    color:  rgb(37 99 235);
+}
